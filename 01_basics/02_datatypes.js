@@ -1,11 +1,10 @@
 "use strict";   // treat all JS code as newer version
 
-// alert(3 + 3) //we are using node.js, not browser
+// alert(3 + 3) //we are using node.js, not browser pop-up doesn't arise in node.js
 
 console.log(3 + 3);
 
 console.log("Kishore")
-
 
 let name = "Kishore"
 let age = 18
